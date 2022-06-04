@@ -16,9 +16,10 @@ find the demo video https://youtu.be/qYrbv0EIs7E
 
 ## Group Members
 
-| Name            | Reg No.    | Campus     | GitHub Profile                                    |
-|-----------------|------------|------------|---------------------------------------------------|
-| Durvankur Dama  | 19BCG10002 | VIT Bhopal | [durvankur-resp](https://github.com/durvankur-resp) |
-| Randhir prakash | 19BCG10060 | VIT Bhopal | [] |
-| Rajveer kumar   | 19BCG10067 | VIT Bhopal | []) |
-|G. D Chandra Shekhar | 19BCE10207 | VIT Bhopal |[ShekharGandhala](https://github.com/ShekharGandhala) |
+| Name            | Reg No.    | Campus     | 
+|-----------------|------------|------------|
+|G. D Chandra Shekhar | 19BCE10207 | VIT Bhopal
+| Durvankur Dama  | 19BCG10002 | VIT Bhopal 
+| Randhir prakash | 19BCG10060 | VIT Bhopal 
+| Rajveer kumar   | 19BCG10067 | VIT Bhopal 
+
